@@ -10,4 +10,6 @@ Methods:
 * act: Deciding next action.(predicting the next best action using the predicted reward or take a random action.)
 
 Conclusion:
-Even though there was a visible improvement in the average score of the model, the model doesn't seem to be passing a certain score level. Hence the training process was aborted after 940 episodes.
+![results1](https://github.com/D3ViL-NK/Deep-RL-Trading-Agent-with-historical-Data/blob/main/score.png)
+![resutls2](https://github.com/D3ViL-NK/Deep-RL-Trading-Agent-with-historical-Data/blob/main/score_avg.png)
+Even though there was a visible improvement in the average score , the model doesn't seem to be passing a certain score level. Hence the training process was aborted after 940 episodes.
